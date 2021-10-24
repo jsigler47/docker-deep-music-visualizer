@@ -1,5 +1,7 @@
 # Pull
-`git command here`
+``` bash
+git clone https://github.com/jsigler47/docker-deep-music-visualizer.git
+```
 
 # Build
 ``` bash
