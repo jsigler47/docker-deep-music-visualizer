@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  dmv:
+    build: .
+    volumes:
+      - ./input:/deep-music-visualizer/input
+      - ./output:/deep-music-visualizer/output

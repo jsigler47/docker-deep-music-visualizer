@@ -1,0 +1,12 @@
+#progress bar
+tqdm
+#audio analysis
+librosa
+#movie editor
+moviepy
+#pytorch
+torch
+#scipy 1.1.0 # Removed verision to work with python3.8
+scipy
+#biggan
+pytorch_pretrained_biggan
